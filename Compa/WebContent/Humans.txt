@@ -1,0 +1,28 @@
+    /* SITE */
+    A site to find compatibility between two person based on Numerology and Sun-Sign!
+
+
+    /* DEVELOPER */
+    Maitreya Dwaipayan
+    Email: dwaipayan.maitreya@gmail.com
+    Location: Bangalore, India
+
+
+                        [...]
+
+
+    /* THANKS */
+    StackOverflow.com
+    Github.com
+
+
+                        [...]
+
+
+    /* SITE */
+    Last update: 2012/06/12
+    Standards: HTML5, CSS3,..
+    Components: JavaScript
+    Software: Dreamweaver, Gimp, Git UI etc
+
+

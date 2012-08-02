@@ -1,0 +1,19 @@
+@charset "utf-8";
+body {
+	margin:0;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 13px;
+	background-color:#A6C1E5;
+}
+#header {
+	height: 40px;
+	width: 100%;
+	background-color:#025D8C;
+	color:#FFF;
+	text-align:center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 28px;
+	padding:10px;
+	
+}
+
